@@ -11,6 +11,15 @@ localidades pequeñas.
 <br/>
 Para este proyecto se utiliza la Base de Datos por Municipio 2020 obtenida de la página web de la CONAPO:
 <br/>
+
 [Página CONAPO](https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372)
 
+<br/>
+<br/>
 Se procesa el archivo IMM_2020.xls por medio de la librería de Pandas y se utilizan las librerías de NumPy y Matplotlib para generar gráficas de los datos.
+<br/>
+<br/>
+<br/>
+El archivo marginalizacion_municipios_mex.ipynb contiene lo solicitado en la tarea de Teams
+<br/>
+El archivo marginalizacion_mex.ipynb lo empecé pensando que la bd con la que se iba a trabajar era con la de estados ....
